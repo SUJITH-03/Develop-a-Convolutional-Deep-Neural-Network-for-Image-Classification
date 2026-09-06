@@ -38,7 +38,7 @@ Display the image
 
 
 
-```
+```python
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -199,8 +199,6 @@ summary(
 
 epochs = 3
 
-print("Name: Kabira")
-print("Register Number: 212224040146")
 
 for i in range(epochs):
 
