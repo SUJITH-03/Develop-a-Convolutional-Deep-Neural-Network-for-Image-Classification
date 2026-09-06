@@ -386,12 +386,6 @@ plt.show()
 
 ### OUTPUT
 
-## Training Loss per Epoch
-
-
-
-<img width="389" height="155" alt="image" src="https://github.com/user-attachments/assets/fc4de977-6f77-484d-a66f-78492d6c30cc" />
-
 
 
 ## Confusion Matrix
